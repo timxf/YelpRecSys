@@ -1,7 +1,7 @@
 #Project: Recommendation System for Yelp Users
 ### Aim: The purpose of this project is create a recommendation system  based on user's review text and star ratings for restaurants in Las Vegas with the data provided by Yelp Data Challenge.
 
-### Data: There are 1M reviews, 61K businesses, 10 different cities, over 11 year. <https://www.yelp.com/dataset_challenge/dataset>
+### Data: There are 2.7 reviews, 86K businesses, 649K reviews 10 cities across 4 countries. <https://www.yelp.com/dataset_challenge/dataset>
 
 ### Methods: 
 1. Content-based filtering: 
